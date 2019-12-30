@@ -1,5 +1,5 @@
 ___
-# toddcore
+# rospberrycore
 
 #### A complete, ready-to-load Raspberry Pi Zero W Raspbian image with ROS Melodic.  Set up as a ROS Appliance in support of Todd the Quad Type 2/3/S.  
 Just [write the image to a MicroSD card](https://www.raspberrypi.org/documentation/installation/installing-images/README.md "write the image to a MicroSD card") and boot it up.  Roscore runs on the Raspberry Pi Zero W as master.  From there you can connect to it from any windows / linux / mac machine with as a [remote master](http://wiki.ros.org/ROS/Tutorials/MultipleMachines "emote master").
